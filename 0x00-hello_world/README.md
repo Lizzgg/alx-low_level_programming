@@ -4,4 +4,5 @@ a script that compiles a C file but does not link.
 a script that generates the assembly code of a C code and save it in an output file.
 
 a script that compiles a C file and creates an executable named cisfun.m.
-a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line..
+a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line..
