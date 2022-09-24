@@ -1,5 +1,5 @@
 /* 
- * File 0-positive_or_negative 
+ * File 0-positive_or_negative.c 
  * 
  */ 
 
@@ -7,10 +7,10 @@
 #include <stdio.h>                                                                                
 
 /**
- * main - Prints if number is positive, zero or negative                                            
+ * main - Prints if a random number and states whether|                                     
  * 	  It positive, negative, or zero
  *
- * Return: Always (Success)                                                                          
+ * Return: Always 0.                     
  */           
 int main(void) 
 { 
