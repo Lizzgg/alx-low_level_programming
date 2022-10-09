@@ -1,0 +1,103 @@
+!<arch> 
+ #1/20           1650748466  501   20    100644  340       ` 
+ __.SYMDEF SORTED���09�-� 
+ \� �&�  
+ x��6f�#p@Xm '��3I�/�Rpv`*�__isupper__memset__strcat__isdigit__memcpy__strncat__atoi__strchr__strlen__strncpy__islower__puts__strcmp__strspn__isalpha__abs__strcpy__putchar#1/20 1650748459 501 20 100644 676 ` 
+ 0-isupper.o����� 8���__text__TEXT3��__compact_unwind__LD8 h__eh_frame__TEXTX@(h$ 
+ p�PUH��}��}�A��}�Z��E���E��E�]�3zRx�$��������3A�C __isupper 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  700       ` 
+ 0-memset.o����� 8���__text__TEXTM��__compact_unwind__LDP �__eh_frame__TEXTp@@h$ 
+ ��PUH��@��H�}��E��U��E��}��%�E�H�M�HcU��u���u�u�����u������H�E�]�MzRx�$p�������MA�C __memset 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  772       ` 
+ 0-strcat.o����� 8���__text__TEXT���__compact_unwind__LD� h�__eh_frame__TEXT�@�h$ 
+ ��PUH��H�}�H�u��E�H�E�HcM������E���E�������E�H�E�HcM�����-H�E�HcM�H�E�HcM��u���u�u���u�����H�E�HcM��H�E�]��zRx�$(��������A�C __strcat 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  676       ` 
+ 1-isdigit.o����� 8���__text__TEXT3��__compact_unwind__LD8 h__eh_frame__TEXTX@(h$ 
+ p�PUH��}��}�0��}�9��E���E��E�]�3zRx�$��������3A�C __isdigit 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  724       ` 
+ 1-memcpy.o����� 8���__text__TEXTc��__compact_unwind__LDh 8�__eh_frame__TEXT�@Xh$ 
+ ��PUH��H�}�H�u��U��E��E��}��6H�E�HcM�H�E�HcM��u���u�u���u�u����u������H�E�]�czRx�$X�������cA�C __memcpy 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  812       ` 
+ 1-strncat.o����� 8 � __text__TEXT���__compact_unwind__LD� ��__eh_frame__TEXT�@�h$ 
+ �PUH��H�}�H�u��U��E�H�E�HcM������E���E�������E�1����E�;E�M��H�E�HcM����@��@�u�E���-H�E�HcM�H�E�HcM��u���u�u���u�����H�E�HcM��H�E�]��zRx�$��������A�C __strncat 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  788       ` 
+ 100-atoi.o����� 8�__text__TEXT���__compact_unwind__LD� ��__eh_frame__TEXT�@�h$ 
+ ��PUH��H�}��E��E�H�E����-�kE���E��QH�E����0�(H�E����9�kE� 
+ H�M����0ЉE���}���'���H�E�H��H��H�M��8�v����E��E�]��zRx�$��������A�C __atoi#1/20 1650748459 501 20 100644 764 ` 
+ 2-strchr.o����� 8���__text__TEXT���__compact_unwind__LD� `�__eh_frame__TEXT�@�h$ 
+ ��PUH��@��H�}��E�H�E�����[H�E���U�9�� H�E�H�E��GH�E��H�U�9��H�E�H��H�E��"�H�E�H��H�E�����H�E�H��H�E�H�E�]��zRx�$0��������A�C __strchr 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  676       ` 
+ 2-strlen.o����� 8���__text__TEXT4��__compact_unwind__LD8 h__eh_frame__TEXTX@(h$ 
+ p�PUH��H�}��E�H�E�HcM�<��E���E�������E�]�4zRx�$��������4A�C __strlen 
+  
+  
+  
+ #1/20           1650748459  501   20    100644  844       ` 
+ 2-strncpy.o����� 8@�@__text__TEXT���__compact_unwind__LD� �__eh_frame__TEXT@�h$ 
+ (PUH��H�}�H�u��U��E��E�H�E��M�ʃ��U�Hc�<0��E���E�������E�1���H�U�Hcu��2���M���E�;E����M�E���$H�E�HcM�H�E�HcM��E���E������E�E�E�;E��H�E�HcM���E���E������H�E�]��zRx�$���������A�C __strncpy 
+  
+  
+  
+ #1/20           1650748460  501   20    100644  708       ` 
+ 3-islower.o����� 8���__text__TEXTV��__compact_unwind__LDX (�__eh_frame__TEXTx@Hh$ 
+ ��PUH��}��E�a�E�a�}�z�+�E�;E���E����E���E�������E��E�]�VzRx�$h�������VA�C __islower 
+  
+  
+  
+ #1/12           1650748460  501   20    100644  748       ` 
+ 3-puts.o����� 8���__text__TEXTZ���__compact_unwind__LD` 0�__eh_frame__TEXT�@Ph$ 
+ ��PUH��H�� H�}��E�H�E�HcM�<�"H�E�HcM��<��}���}�E������� 
+ ��E�H�� ]�ZzRx�$`�������ZA�C M-2-__puts__putchar 
+  
+  
+  
+ #1/20           1650748460  501   20    100644  772       ` 
+ 3-strcmp.o����� 8���__text__TEXT���__compact_unwind__LD� h�__eh_frame__TEXT�@�h$ 
+ ��PUH��H�}�H�u�1���H�U�����M��/1���H�U�����M��H�E��H�E��9�@��@�u�E���H�E�H��H�E�H�E�H��H�E�����H�E��H�E��)щ�]��zRx�$(��������A�C __strcmp 
+  
+  
+  
+ #1/20           1650748460  501   20    100644  812       ` 
+ 3-strspn.o����� 8 � __text__TEXT���__compact_unwind__LD� ��__eh_frame__TEXT�@�h$ 
+ �PUH��H�}�H�u��E�H�E��8���E�H�E�HcM��<�fH�E��H�E�HcU��49���E���E��=H�E�M���Hc������E�E��/���E����E�����H�E�H��H�E��c����E�E��E�]��zRx�$��������A�C __strspn 
+  
+  
+  
+ #1/20           1650748460  501   20    100644  708       ` 
+ 4-isalpha.o����� 8���__text__TEXTS��__compact_unwind__LDX (�__eh_frame__TEXTx@Hh$ 
+ ��PUH��}��}�a��}�z��E��'�}�A��}�Z��E���E��E�]�SzRx�$h�������SA�C __isalpha 
+  
+  
+  
+ #1/12           1650748460  501   20    100644  668       ` 
+ 6-abs.o����� 8���__text__TEXT>��__compact_unwind__LD@ p__eh_frame__TEXT`@0h$ 
+ x�PUH��}��}���E��E���}�� 1�+E��E���E��E��E�]�>zRx�$��������>A�C __abs#1/20 1650748460 501 20 100644 700 ` 
+ 9-strcpy.o����� 8���__text__TEXTO��__compact_unwind__LDP �__eh_frame__TEXTp@@h$ 
+ ��PUH��H�}�H�u��E������E���E�H�M�HcU�@�4H�M�HcU�@�4H�E�HcM���������H�E�]�OzRx�$p�������OA�C __strcpy 
+  
+  
+  
+ #1/20           1650748460  501   20    100644  700       ` 
+ _putchar.o����� 8���__text__TEXT-�`�__compact_unwind__LD0 h__eh_frame__TEXTP@ h$ 
+ p�PUH��H��@���H�u���ʈE������H��]�-zRx�$��������-A�C -__putchar_write
